@@ -1,0 +1,6 @@
+yuson@DESKTOP-B74FDQ3 MINGW64 ~/Desktop/191/191-Yusong-Liu (master)
+$ git log --oneline --graph --all
+* 52c593e (HEAD -> master, origin/master, origin/HEAD) Update README.md
+| * 38adacc (origin/greeting, greeting) Create greeting.txt
+|/
+* 7d593ac Initial commit
